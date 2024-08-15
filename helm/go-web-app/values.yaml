@@ -4,7 +4,7 @@ image:
   repository: aswines/go-devopsified
   pullPolicy: IfNotPresent
   # Overrides the image tag whose default is the chart appVersion.
-  tag: "10405850344"
+  tag: "10406205702"
 
 # ingress:
 #   enabled: false
