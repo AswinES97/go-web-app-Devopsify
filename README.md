@@ -2,6 +2,10 @@
 
 This is a simple website written in Golang. It uses the `net/http` package to serve HTTP requests.
 
+## The CI/CD implementation looks like this
+
+![Website](static/images/go-web-app.png)
+
 ## Running the server
 
 To run the server, execute the following command:
@@ -15,10 +19,5 @@ The server will start on port 8080. You can access it by navigating to `http://l
 ## Looks like this
 
 ![Website](static/images/golang-website.png)
-
-## The CI/CD implementation looks like this
-
-![Website](static/images/go-web-app.png)
-
 
 Refer: https://www.youtube.com/watch?v=HGu9sgoHaJ0&t=160s
